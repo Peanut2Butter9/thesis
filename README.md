@@ -10,7 +10,7 @@ congruences for the coefficients of $H_k$, and then proves them.
 
 ## Results
 
-**Prime-detecting forms.** Let $G_k$ be the Eisenstein series of weight $k$ and $D = q\,\frac{d}{dq}$.
+**Prime-detecting forms.** Let $G_k$ be the Eisenstein series of weight $k$ and $D = q \frac{d}{dq}$.
 For even $k \ge 6$, define
 
 ```math
